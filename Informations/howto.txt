@@ -1,0 +1,9 @@
+########################################################
+##    Comment installer et lancer le programme?       ##
+########################################################
+
+Tapper sur la ligne de commande:
+1. python3 Graphique.py
+2. Choisir le fichier .txt avec les trames
+
+PS: Voir la vidéo youtube pour plus d'explications  
